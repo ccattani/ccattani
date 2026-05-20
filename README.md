@@ -5,7 +5,7 @@ Frontend Engineer focused on Angular, scalability and software architecture
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Engineer;Angular+Developer;Currently+learning+Java;Building+scalable+applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Engineer;Angular+Developer;Currently+learning+Java;Building+scalable+applications" />
 </p>
 
 ---
@@ -24,32 +24,30 @@ Frontend Engineer focused on Angular, scalability and software architecture
 
 ### Frontend
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
+</p>
 
 ### Backend (Learning)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
 
 ### Testing & DevOps
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,aws,azure,githubactions" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ccattani&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ccattani&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccattani&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ccattani&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,7 +55,7 @@ Frontend Engineer focused on Angular, scalability and software architecture
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccattani&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ccattani&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -65,16 +63,19 @@ Frontend Engineer focused on Angular, scalability and software architecture
 ## 🌎 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/cheyenne-cattani/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
-</a>
-</p>
 
-- 💼 LinkedIn: https://www.linkedin.com/in/cheyenne-cattani/
-- 📫 Email: cheycattani@gmail.com
+<a href="https://www.linkedin.com/in/cheyenne-cattani/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+</a>
+
+<a href="mailto:cheycattani@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+</a>
+
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/ccattani/ccattani/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ccattani/ccattani/output/github-contribution-grid-snake-dark.svg)
