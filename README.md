@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cheyenne Cattani</h1>
+<h1 align="center">Hi 👋, I'm Cheyenne</h1>
 
 <h3 align="center">
 Frontend Engineer focused on Angular, scalability and software architecture
@@ -47,9 +47,17 @@ Frontend Engineer focused on Angular, scalability and software architecture
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CheyenneCattani&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ccattani&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheyenneCattani&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccattani&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccattani&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -62,8 +70,11 @@ Frontend Engineer focused on Angular, scalability and software architecture
 </a>
 </p>
 
+- 💼 LinkedIn: https://www.linkedin.com/in/cheyenne-cattani/
+- 📫 Email: cheycattani@gmail.com
+
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/CheyenneCattani/CheyenneCattani/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ccattani/ccattani/blob/output/github-contribution-grid-snake.svg)
