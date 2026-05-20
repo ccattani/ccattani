@@ -52,14 +52,6 @@ Frontend Engineer focused on Angular, scalability and software architecture
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ccattani&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌎 Connect With Me
 
 <p align="left">
@@ -75,7 +67,3 @@ Frontend Engineer focused on Angular, scalability and software architecture
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/ccattani/ccattani/output/github-contribution-grid-snake-dark.svg)
